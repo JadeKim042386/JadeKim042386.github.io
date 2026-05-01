@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.jadekim042386.twa",
+        "sha256_cert_fingerprints": ["1E:6E:A9:C0:4A:9A:45:BE:D3:71:05:52:9D:F9:D1:F1:B4:E4:45:3B:47:08:A4:CD:75:81:AB:CF:18:70:F4:C8"]
+      }
+    }]
